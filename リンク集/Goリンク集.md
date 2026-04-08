@@ -18,6 +18,8 @@ Go言語で開発するときや学習する時に参考にできるリンク集
 - **[Go Doc Comments](https://go.dev/doc/comment)**: GoDocの書き方
 - **[The Go Programming Language Specification](https://go.dev/ref/spec)**: Go言語仕様書
 - **[Go by Example](https://gobyexample.com/)**: Goのサンプルコード集
+- **[Design Patterns in Go](https://refactoring.guru/design-patterns/go)**: GoF
+- **[Go Cookbook](https://go-cookbook.com/)**: Goのレシピ集（→[GitHub](https://github.com/vsxlabs/go-cookbook)）。
 
 # チートシート
 
@@ -63,7 +65,7 @@ Go言語で開発するときや学習する時に参考にできるリンク集
 
 - **[Tutorials](https://go.dev/doc/tutorial/)**: 公式チュートリアル
 - **[A Tour of Go](https://go.dev/tour/welcome/1)**: 公式チュートリアル。Go初心者が一度は触ってみるやる。（[非公式 日本語版](https://go-tour-jp.appspot.com/list)）
-- **[Go by Example](https://gobyexample.com/)**: Goのサンプルコード集。写経学習に利用できる。
-- **[Go Web Example](https://gowebexamples.com/)**: GoでWeb開発する際のサンプルコード集。
+- **[Go by Example](https://gobyexample.com/)**: サンプルコード集。写経学習に利用できる。
+- **[Go Web Example](https://gowebexamples.com/)**: Web開発する際のサンプルコード集。
 
 # その他
