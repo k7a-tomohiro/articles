@@ -46,6 +46,7 @@ Go言語で開発するときや学習する時に参考にできるリンク集
 
 - **[The Go Blog](https://go.dev/blog/)**
 - **[Golang Weekly](https://golangweekly.com/)**
+- **[Go talks](https://go.dev/talks/)**
 - **[golang - app.daily.dev](https://app.daily.dev/tags/golang)**
 
 # 学習用
