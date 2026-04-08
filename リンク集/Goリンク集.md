@@ -4,10 +4,10 @@ Go言語で開発するときや学習する時に参考にできるリンク集
 
 # 公式サイト
 
-- **[The Go Programming Language](https://go.dev/)**
-- **[Go Wiki](https://go.dev/wiki/)**
-- **[golang/go GitHub](https://github.com/golang/go)**
-- **[pkg.go.dev GoDoc](https://pkg.go.dev/)**
+- **[The Go Programming Language](https://go.dev/)**: Goの公式サイト。
+- **[Go Wiki](https://go.dev/wiki/)**: コミュニティが管理するWiki。FAQやベストプラクティスなど公式ドキュメントを補完する情報が掲載している。
+- **[golang/go GitHub](https://github.com/golang/go)**: Go本体のリポジトリ。
+- **[pkg.go.dev GoDoc](https://pkg.go.dev/)**: GoDoc形式のドキュメント検索サイト。
 
 # リファレンス
 
