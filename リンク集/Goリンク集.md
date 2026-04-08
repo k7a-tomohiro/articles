@@ -18,7 +18,8 @@ Go言語で開発するときや学習する時に参考にできるリンク集
 - **[Go Doc Comments](https://go.dev/doc/comment)**: GoDocの書き方
 - **[The Go Programming Language Specification](https://go.dev/ref/spec)**: Go言語仕様書
 - **[Go by Example](https://gobyexample.com/)**: Goのサンプルコード集
-- **[Design Patterns in Go](https://refactoring.guru/design-patterns/go)**: GoF
+- **[Design Patterns in Go](https://refactoring.guru/design-patterns/go)**: （→[GitHub](https://github.com/RefactoringGuru/design-patterns-go)）
+- **[The Algorithms - Go](https://github.com/TheAlgorithms/Go)**: Goで実装されたさまざまなアルゴリズムが掲載されている
 - **[Go Cookbook](https://go-cookbook.com/)**: Goのレシピ集（→[GitHub](https://github.com/vsxlabs/go-cookbook)）。
 
 # チートシート
