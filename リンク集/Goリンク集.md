@@ -25,6 +25,13 @@ Go言語で開発するときや学習する時に参考にできるリンク集
 - **<https://encore.cloud/guide/go.mod>**: `go get`と`go mod`コマンド
 - **<https://www.andy-pearce.com/go-cheat-sheet.pdf>**: goコマンドチートシート
 
+# オンラインツール
+
+- **[The Go Playground](https://go.dev/play/)**
+- **[Better Go Playground](https://goplay.tools/)**
+- **[The Go SSA Playground](https://golang.design/gossa)**
+- **[Go Concurrency Explorer](https://www.concurrency.rocks/)**
+
 # ガイドライン・ベストプラクティス
 
 - **[Go Wiki: Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)**
@@ -47,8 +54,11 @@ Go言語で開発するときや学習する時に参考にできるリンク集
 - **[The Go Blog](https://go.dev/blog/)**
 - **[Golang Weekly](https://golangweekly.com/)**
 - **[Go talks](https://go.dev/talks/)**
+- **[Go: A Documentary](https://golang.design/history/)**
 - **[golang - app.daily.dev](https://app.daily.dev/tags/golang)**
 
 # 学習用
+
+- **[Tutorials](https://go.dev/doc/tutorial/)**: 公式チュートリアル
 
 # その他
