@@ -1,6 +1,6 @@
 
 Go言語で開発するときや学習する時に参考にできるリンク集です。
-随時更新（マスターデータ → [GitHub](https://github.com/k7a-tomohiro/articles/blob/main/%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86/Go%E3%83%AA%E3%83%B3%E3%82%AF%E9%9B%86.md)）。
+随時更新。
 
 # 公式サイト
 
@@ -36,7 +36,7 @@ Go言語で開発するときや学習する時に参考にできるリンク集
 - **[Better Go Playground](https://goplay.tools/)**
 - **[The Go SSA Playground](https://golang.design/gossa)**
 - **[Go Concurrency Explorer](https://www.concurrency.rocks/)**
-
+- **[GoAst Viewer](https://yuroyoro.github.io/goast-viewer/index.html)**: （→[GitHub](https://github.com/yuroyoro/goast-viewer)）
 # ガイドライン・ベストプラクティス
 
 - **[Go Wiki: Go Code Review Comments](https://go.dev/wiki/CodeReviewComments)**
